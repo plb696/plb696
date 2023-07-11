@@ -1,0 +1,41 @@
+#i1
+{font-size: 40px;
+
+color: rgb(241, 206, 189)
+
+
+}
+#i2
+{
+    color: white;
+    font-size: 25px;
+}
+#i3
+{ background-image: url("https://i.makeagif.com/media/8-29-2017/BoktV9.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(185, 167, 185);
+    backface-visibility: hidden;
+}
+#i5
+{
+    color: white;
+    font-style: normal;
+    font-size: 25px;
+}
+#i6
+{
+    color: white;
+    font-style: normal;
+    font-size: 25px;
+} 
+#i4
+{font-size: 40px;
+color: rgb(241, 206, 189)
+}
+#i7
+{
+    color: whitesmoke;
+    font-size: 60px;
+}
